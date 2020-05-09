@@ -7,4 +7,4 @@ RubyとRuby on Railsを使って簡易的な勤怠管理アプリケーション
 * AWS Cloud9
 * Ruby
 * Rails
-* Git
+* Git(HTTPSからSSH通信へ変更)
